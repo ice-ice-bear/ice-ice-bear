@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm SeungRyul Lee</h1>
-<h3 align="center">Try to progress by Data driven thinking</h3>
+<h1 align="left">Hi 👋, I'm SeungRyul Lee</h1>
+<h3 align="left">Try to progress by Data driven thinking</h3>
 
 - 🌱 I’m currently learning **Langchain, Fast-API**
 
