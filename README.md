@@ -11,9 +11,7 @@
 <h3 align="left">📜 Papers</h3>
 <p align="left">
  <h4>Here are some contests and competitions I have participated in:</h4>
- - 📫 How to reach me **3balbi7@gmail.com**
- - 📫 한국정보처리학회 ACK 2023(추계)
--  [here](https://github.com/ice-ice-bear/Competition-2023-Hanium-ICT-Mentoring)): 생성형 AI의 교육용 컨텐츠 활용을 위한 연구
+ - 📫 한국정보처리학회 ACK 2023(추계)[here](https://github.com/ice-ice-bear/Competition-2023-Hanium-ICT-Mentoring)): 생성형 AI의 교육용 컨텐츠 활용을 위한 연구
 </p>
 
 <h3 align="left">🏆 Contests and Competitions</h3>
