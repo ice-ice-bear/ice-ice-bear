@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/LangChain-3776AB?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain"/> 
   </a>
 
-
+<p align="left">
 |소속 및 단체|활동 기간|내용|
 |---|---|---|
 |서경대학교| 2017.03~2024.02  | 서경대학교 공과대학 산업시스템공학과 졸업
