@@ -44,6 +44,13 @@
   <h4>Web Scraping</h4>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 
+ <h4>Web Development<h4>;
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="40" height="40"/> </a> 
+
+<h4>Other Tools<h4>
+  <a href="https://langchain.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/119895501?s=200&amp;v=4" alt="langchain" width="40" height="40"/> </a>;
+  <a href="https://www.gradio.app/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/78658251?s=200&amp;v=4" alt="gradio" width="40" height="40"/> </a>
+
   <h4>DevOps & Tools</h4>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
