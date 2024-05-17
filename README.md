@@ -2,9 +2,7 @@
 <h3 align="left">Try to progress by Data driven thinking</h3>
 - 🌱 I’m currently learning **Langchain, Fast-API**
 
-- 👨‍💻 All of my projects are available at ([here](https://github.com/ice-ice-bear?tab=repositories))
-
-- 💬 Ask me about **python,**
+- 👨‍💻 All of my projects are available at ([here](https://github.com/ice-ice-bear?tab=repositories)|)
 
 - 📫 How to reach me **3balbi7@gmail.com**
 
@@ -12,40 +10,17 @@
 |소속 및 단체|활동 기간|내용|
 |---|---|---|
 |서경대학교| 2017.03~2024.02  | 서경대학교 공과대학 산업시스템공학과 졸업
-|SKUDAA| 2020.03~  | 했던거 써라
-|| 2023.02~  | 써라
+|서경대학교 데이터분석 동아리(SKUDAA)| 2022.04~ 2022.12 | 취업동아리 동아리 기장
 
 
-<h2>💻 Projects</h2>
-
-| Date | 내용 |
-| --- | --- |
-| 2023.06 ~ | 어쩌구 저쩌구 '<a href="https://github.com/re2panda">니 프로젝트 한거</a>' Frontend 개발 |
-
-
-<h2>📖 Education</h2>
-
-| Date | 내용 |
-| --- | --- |
-| 2019.06 ~ | 어쩌구 저쩌구 '<a href="https://github.com/re2panda">니 프로젝트 한거</a>' Frontend 개발 |
-
-
-<h2>🎖️ Certificates</h2>
-
-- AdsP
-- Sqld
-
-<br/>
-<d></d>
-
-<h2 align="left">📜 Papers</h2>
+<h3 align="left">📜 Papers</h3>
 <p align="left">
  <h4>Here are some contests and competitions I have participated in:</h4>
  
  - 한국정보처리학회 ACK 2023(추계)([here](https://github.com/ice-ice-bear/Competition-2023-Hanium-ICT-Mentoring)): 생성형 AI의 교육용 컨텐츠 활용을 위한 연구
    
 
-<h2 align="left">🏆 Contests and Competitions</h2>
+<h3 align="left">🏆 Contests and Competitions</h3>
 <p align="left">
  <h4>Here are some contests and competitions I have participated in:</h4>
  
@@ -60,18 +35,34 @@
 | 2022-10-04 ~ 2022-11-20 | 2022년도 체육종합 데이터 분석/활용 경진대회 | [link](https://github.com/ice-ice-bear/Competition-2022-Sports-Comprehensive-Data-Analysis-Utilization-Contest) | 🏆 |
 
 
-<h2 align="left">💻 Personal Projects</h2>
+<h3 align="left">💻 Personal Projects</h3>
 <p align="left">
  <h4>Here are some projects and competitions I have participated in:</h4>
 | Date | title | link | 
 | --- | --- | --- | --- |
  
 
+<h3 align="left">📖 Education</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- You can add social media links here -->
-</p>
+| Date | Title |
+| --- | --- |
+| 2019.06 ~ | 어쩌구 저쩌구 '<a href="https://github.com/re2panda">니 프로젝트 한거</a>' Frontend 개발 |
+
+
+<h3 align="left">🎖️ Certificates</h3>
+
+| Name | Issuing Authority | Acquisition date |
+| --- | --- | --- |
+| AdsP | 한국데이터산업진흥원 | 2024-03-22 |
+| Sqld | 한국데이터산업진흥원 | 2024-04-05 |
+| 사회조사분석사 2급 | 한국산업인력공단 | 2019-03-14 |
+
+
+<h3 align="left">🎖️ Language Certificates</h3>
+
+| Name | Score | Acquisition date |
+| TOEIC | 905 | 2023-10-14 |
+| OPIC | AL(Advanced Low) | 2024-01-20 |
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
