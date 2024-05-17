@@ -8,18 +8,45 @@
 
 - 📫 How to reach me **3balbi7@gmail.com**
 
+
+|소속 및 단체|활동 기간|내용|
+|---|---|---|
+|서경대학교| 2017.03~2024.02  | 서경대학교 공과대학 산업시스템공학과 졸업
+|SKUDAA| 2020.03~  | 했던거 써라
+|| 2023.02~  | 써라
+
+
+
+<h2>💻 Projects</h3>
+
+| 기간 | 내용 |
+| --- | --- |
+| 2023.06 ~ | 어쩌구 저쩌구 '<a href="https://github.com/re2panda">니 프로젝트 한거</a>' Frontend 개발 |
+
+
+
+<h2>🎖️ Awards/Certificates</h2>
+
+<d>🥇 상받은거 쓰세요 </d>
+<br/>
+
+
+<br/>
+<d></d>
+
 <h3 align="left">📜 Papers</h3>
 <p align="left">
  <h4>Here are some contests and competitions I have participated in:</h4>
- - 📫 한국정보처리학회 ACK 2023(추계)[here](https://github.com/ice-ice-bear/Competition-2023-Hanium-ICT-Mentoring)): 생성형 AI의 교육용 컨텐츠 활용을 위한 연구
-</p>
+ 
+ - 한국정보처리학회 ACK 2023(추계)[here](https://github.com/ice-ice-bear/Competition-2023-Hanium-ICT-Mentoring)): 생성형 AI의 교육용 컨텐츠 활용을 위한 연구
+   
 
 <h3 align="left">🏆 Contests and Competitions</h3>
 <p align="left">
  <h4>Here are some contests and competitions I have participated in:</h4>
-- 대덕구청 주관 청년 리빙랩 프로젝트([link](https://github.com/ice-ice-bear/Competiton-Youth-Living-Lab-Project-Rediscovery-of-the-area)): 최우수상
-- 2022 체육종합 데이터분석/활용 경진대회(https://github.com/ice-ice-bear/Competition-2022-Sports-Comprehensive-Data-Analysis-Utilization-Contest): 활용 부문 우수상
-</p>
+ - 대덕구청 주관 청년 리빙랩 프로젝트([link](https://github.com/ice-ice-bear/Competiton-Youth-Living-Lab-Project-Rediscovery-of-the-area)): 최우수상
+ - 2022 체육종합 데이터분석/활용 경진대회(https://github.com/ice-ice-bear/Competition-2022-Sports-Comprehensive-Data-Analysis-Utilization-Contest): 활용 부문 우수상
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
