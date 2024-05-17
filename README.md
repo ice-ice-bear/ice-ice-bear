@@ -17,31 +17,37 @@
 
 
 
-<h2>💻 Projects</h3>
+<h2>💻 Projects</h2>
 
-| 기간 | 내용 |
+| Date | 내용 |
 | --- | --- |
 | 2023.06 ~ | 어쩌구 저쩌구 '<a href="https://github.com/re2panda">니 프로젝트 한거</a>' Frontend 개발 |
 
+<h2>📖 Education</h2>
+
+| Date | 내용 |
+| --- | --- |
+| 2019.06 ~ | 어쩌구 저쩌구 '<a href="https://github.com/re2panda">니 프로젝트 한거</a>' Frontend 개발 |
 
 
-<h2>🎖️ Awards/Certificates</h2>
 
-<d>🥇 상받은거 쓰세요 </d>
-<br/>
+<h2>🎖️ Certificates</h2>
+
+- AdsP
+- Sqld
 
 
 <br/>
 <d></d>
 
-<h3 align="left">📜 Papers</h3>
+<h2 align="left">📜 Papers</h2>
 <p align="left">
  <h4>Here are some contests and competitions I have participated in:</h4>
  
  - 한국정보처리학회 ACK 2023(추계)([here](https://github.com/ice-ice-bear/Competition-2023-Hanium-ICT-Mentoring)): 생성형 AI의 교육용 컨텐츠 활용을 위한 연구
    
 
-<h3 align="left">🏆 Contests and Competitions</h3>
+<h2 align="left">🏆 Contests and Competitions</h2>
 <p align="left">
  <h4>Here are some contests and competitions I have participated in:</h4>
  
