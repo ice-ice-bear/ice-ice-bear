@@ -1,6 +1,5 @@
 <h1 align="left">Hi 👋, I'm SeungRyul Lee</h1>
 <h3 align="left">Try to progress by Data driven thinking</h3>
-- 🌱 I’m currently learning **Langchain, Fast-API**
 
 - 👨‍💻 All of my projects are available at ([here](https://github.com/ice-ice-bear?tab=repositories)|)
 
@@ -61,6 +60,7 @@
 <h3 align="left">🎖️ Language Certificates</h3>
 
 | Name | Score | Acquisition date |
+| --- | --- | --- |
 | TOEIC | 905 | 2023-10-14 |
 | OPIC | AL(Advanced Low) | 2024-01-20 |
 
