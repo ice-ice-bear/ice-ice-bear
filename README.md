@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Langchain, Fast-API**
 
-- 👨‍💻 All of my projects are available at [link](https://github.com/ice-ice-bear/ice-ice-bear)
+- 👨‍💻 All of my projects are available at [here](https://github.com/ice-ice-bear/ice-ice-bear)
 
 - 💬 Ask me about **python,**
 
@@ -12,7 +12,8 @@
 <h3 align="left">📜 Papers</h3>
 <p align="left">
  <h4>Here are some contests and competitions I have participated in:</h4>
-- 한국정보처리학회 ACK 2023(추계)([link](https://github.com/ice-ice-bear/Competition-2023-Hanium-ICT-Mentoring)): 생성형 AI의 교육용 컨텐츠 활용을 위한 연구
+ - 📫 한국정보처리학회 ACK 2023(추계)
+-  [here](https://github.com/ice-ice-bear/Competition-2023-Hanium-ICT-Mentoring)): 생성형 AI의 교육용 컨텐츠 활용을 위한 연구
 </p>
 
 <h3 align="left">🏆 Contests and Competitions</h3>
