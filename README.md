@@ -12,14 +12,14 @@
 <h3 align="left">Papers</h3>
 <p align="left">
  <h4>Here are some contests and competitions I have participated in:</h4>
- - [한국정보처리학회 ACK 2023(추계]([link](https://github.com/ice-ice-bear/Competition-2023-Hanium-ICT-Mentoring)): 생성형 AI의 교육용 컨텐츠 활용을 위한 연구
+- [한국정보처리학회 ACK 2023(추계]([link](https://github.com/ice-ice-bear/Competition-2023-Hanium-ICT-Mentoring)): 생성형 AI의 교육용 컨텐츠 활용을 위한 연구
 </p>
 
 <h3 align="left">Contests and Competitions</h3>
 <p align="left">
  <h4>Here are some contests and competitions I have participated in:</h4>
- - [대덕구청 주관 청년 리빙랩 프로젝트]([link](https://github.com/ice-ice-bear/Competiton-Youth-Living-Lab-Project-Rediscovery-of-the-area)): 최우수상
- - [2022 체육종합 데이터분석/활용 경진대회](https://github.com/ice-ice-bear/Competition-2022-Sports-Comprehensive-Data-Analysis-Utilization-Contest): 활용 부문 우수상
+- [대덕구청 주관 청년 리빙랩 프로젝트]([link](https://github.com/ice-ice-bear/Competiton-Youth-Living-Lab-Project-Rediscovery-of-the-area)): 최우수상
+- [2022 체육종합 데이터분석/활용 경진대회](https://github.com/ice-ice-bear/Competition-2022-Sports-Comprehensive-Data-Analysis-Utilization-Contest): 활용 부문 우수상
 </p>
 
 <h3 align="left">Connect with me:</h3>
