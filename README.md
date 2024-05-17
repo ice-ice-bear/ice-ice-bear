@@ -2,7 +2,7 @@
 <h3 align="left">Try to progress by Data driven thinking</h3>
 - 🌱 I’m currently learning **Langchain, Fast-API**
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/ice-ice-bear/ice-ice-bear)
+- 👨‍💻 All of my projects are available at ([here](https://github.com/ice-ice-bear?tab=repositories))
 
 - 💬 Ask me about **python,**
 
@@ -16,12 +16,12 @@
 || 2023.02~  | 써라
 
 
-
 <h2>💻 Projects</h2>
 
 | Date | 내용 |
 | --- | --- |
 | 2023.06 ~ | 어쩌구 저쩌구 '<a href="https://github.com/re2panda">니 프로젝트 한거</a>' Frontend 개발 |
+
 
 <h2>📖 Education</h2>
 
@@ -30,12 +30,10 @@
 | 2019.06 ~ | 어쩌구 저쩌구 '<a href="https://github.com/re2panda">니 프로젝트 한거</a>' Frontend 개발 |
 
 
-
 <h2>🎖️ Certificates</h2>
 
 - AdsP
 - Sqld
-
 
 <br/>
 <d></d>
@@ -51,8 +49,23 @@
 <p align="left">
  <h4>Here are some contests and competitions I have participated in:</h4>
  
-  - 대덕구청 주관 청년 리빙랩 프로젝트([here](https://github.com/ice-ice-bear/Competiton-Youth-Living-Lab-Project-Rediscovery-of-the-area)): 최우수상
-  - 2022 체육종합 데이터분석/활용 경진대회([here](https://github.com/ice-ice-bear/Competition-2022-Sports-Comprehensive-Data-Analysis-Utilization-Contest)): 활용 부문 우수상
+| Date | title | link | prize |
+| --- | --- | --- | --- |
+| 2023-10-16 ~ 2023-11-10 | Cj올리브네트웍스 해커톤 | ([link]https://github.com/ice-ice-bear/Hackertone-Cj-Olive-Networks) |  |
+| 2023-04-01 ~ 2023-10-31 | 한이음 ICT 멘토링| ([link]https://github.com/ice-ice-bear/Competition-2023-Hanium-ICT-Mentoring) | 📜 |
+| 2023-04-21 ~ 2023-06-28 | 2023 국토교통 데이터 활용 경진대회 | ([link]https://github.com/ice-ice-bear/Competition-2023-Land-Transport-Data-Utilization-Contest)|  |
+| 2023-05-08 ~ 2023-06-09 | 2023년 경기도 GenAI·공공데이터 창업경진대회 | ([link]https://github.com/ice-ice-bear/Competition-2023-Gyeonggi-do-GenAI-Open-Data-Startup-Contest) |
+| 2023-01-20 ~ 2023-02-05 | 사회복지 더하기 디지털기술 아이디어 공모전 | ([link]https://github.com/ice-ice-bear/Competiton-Social-Welfare-Plus-Digital-Technology-Idea-Contest) | |
+| 2022-10-07 ~ 2022-10-23 | 청년 리빙랩 프로젝트 - 지역의 재발견 | ([link]https://github.com/ice-ice-bear/Competiton-Youth-Living-Lab-Project-Rediscovery-of-the-area) | 🏆 |
+| 2022-10-04 ~ 2022-11-20 | 2022년도 체육종합 데이터 분석/활용 경진대회 | ([link]https://github.com/ice-ice-bear/Competition-2022-Sports-Comprehensive-Data-Analysis-Utilization-Contest) | 🏆 |
+
+
+<h2 align="left">💻 Personal Projects</h2>
+<p align="left">
+ <h4>Here are some projects and competitions I have participated in:</h4>
+| Date | title | link | 
+| --- | --- | --- | --- |
+ 
 
 
 <h3 align="left">Connect with me:</h3>
