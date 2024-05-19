@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm SeungRyul Lee</h1>
 <h3 align="left">Try to progress by Data driven thinking</h3>
 
-- 👨‍💻 All of my projects are available at ([here](https://github.com/ice-ice-bear?tab=repositories)|)
+- 👨‍💻 All of my projects are available at [here](https://github.com/ice-ice-bear?tab=repositories)
 
 - 📫 How to reach me **3balbi7@gmail.com**
 
