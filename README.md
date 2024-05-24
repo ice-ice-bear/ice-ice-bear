@@ -104,6 +104,8 @@
 | Sqld | 한국데이터산업진흥원 | 2024-04-05 |
 | 사회조사분석사 2급 | 한국산업인력공단 | 2019-03-14 |
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 <h3 align="left">🎖️ Language Certificates</h3>
 
