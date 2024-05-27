@@ -112,6 +112,5 @@
 | TOEIC | 905 | 2023-10-14 |
 | OPIC | AL(Advanced Low) | 2024-01-20 |
 
-![](./profile-3d-contrib/profile-gitblock.svg)
 
 
