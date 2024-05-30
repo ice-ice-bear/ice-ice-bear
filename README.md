@@ -91,9 +91,12 @@
 
 <h3 align="left">📖 Education</h3>
 
-| Date | Title |
+| title | link |
 | --- | --- |
-| 2019.06 ~ | 어쩌구 저쩌구 '<a href="https://github.com/re2panda">니 프로젝트 한거</a>' Frontend 개발 |
+| 공공데이터 파이썬 데이터 분석 | [link]([https://github.com/ice-ice-bear/Study-Python-data-analysis-with-Open-Government-Data]) |
+| SQL 코딩테스트 | [link]([https://github.com/ice-ice-bear/Study-Python-data-analysis-with-Open-Government-Data]) |
+| 유통/E-commerce 데이터 분석 | [link]([https://github.com/ice-ice-bear/Study-Retail_E-commerce-Data-Analysis]) |
+
 
 
 <h3 align="left">🎖️ Certificates</h3>
