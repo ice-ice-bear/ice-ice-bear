@@ -93,9 +93,9 @@
 
 | title | link |
 | --- | --- |
-| 공공데이터 파이썬 데이터 분석 | [link]([https://github.com/ice-ice-bear/Study-Python-data-analysis-with-Open-Government-Data]) |
-| SQL 코딩테스트 | [link]([https://github.com/ice-ice-bear/Study-Python-data-analysis-with-Open-Government-Data]) |
-| 유통/E-commerce 데이터 분석 | [link]([https://github.com/ice-ice-bear/Study-Retail_E-commerce-Data-Analysis]) |
+| 공공데이터 파이썬 데이터 분석 | [link](https://github.com/ice-ice-bear/Study-Python-data-analysis-with-Open-Government-Data) |
+| SQL 코딩테스트 | [link](https://github.com/ice-ice-bear/Study-Python-data-analysis-with-Open-Government-Data) |
+| 유통/E-commerce 데이터 분석 | [link](https://github.com/ice-ice-bear/Study-Retail_E-commerce-Data-Analysis) |
 
 
 
