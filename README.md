@@ -59,6 +59,13 @@
 | 서경대학교| 2017.03~2024.02 | 서경대학교 공과대학 산업시스템공학과 졸업 |
 | 서경대학교 데이터분석 동아리(SKUDAA) | 2022.04~ 2022.12 | 취업동아리 동아리 기장 |
 
+<h3 align="left">🏆 Contests and Competitions</h3>
+<p align="left">
+ <h4>Here are some contests and competitions I have participated in:</h4>
+ 
+| Date | title | link | 
+| --- | --- | --- |
+| 2022-12-30 ~ 2023-08-25 | [(주)지앤티솔루션(https://www.gntsolution.com/gntsolution_2023/Gnt_main/main.php) | [link](https://github.com/ice-ice-bear/Internship-GNT-SOLUTION) |
 
 <h3 align="left">📜 Papers</h3>
 <p align="left">
