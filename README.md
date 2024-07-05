@@ -80,6 +80,7 @@
  
 | Date | title | link | prize |
 | --- | --- | --- | --- |
+| 2024-05-23 ~ | 농림축산식품부 데이터활용 창업경진대회 | [link](https://github.com/ice-ice-bear/Competition-Ministry-of-Agriculture-Food-and-Rural-Affairs-Open-Data-Startup-Contest) |  |
 | 2023-10-16 ~ 2023-11-10 | Cj올리브네트웍스 해커톤 | [link](https://github.com/ice-ice-bear/Hackertone-Cj-Olive-Networks) |  |
 | 2023-04-01 ~ 2023-10-31 | 한이음 ICT 멘토링| [link](https://github.com/ice-ice-bear/Competition-2023-Hanium-ICT-Mentoring) | 📜 |
 | 2023-04-21 ~ 2023-06-28 | 2023 국토교통 데이터 활용 경진대회 | [link](https://github.com/ice-ice-bear/Competition-2023-Land-Transport-Data-Utilization-Contest)|  |
