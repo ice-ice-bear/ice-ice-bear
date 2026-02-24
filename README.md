@@ -23,14 +23,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ice-ice-bear&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ice-ice-bear&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ice-ice-bear&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=ice-ice-bear&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -49,24 +42,11 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/ice-ice-bear/log-blog">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ice-ice-bear&repo=log-blog&theme=tokyonight&hide_border=true" alt="log-blog"/>
-</a>
-<a href="https://github.com/ice-ice-bear/hanra-reserve">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ice-ice-bear&repo=hanra-reserve&theme=tokyonight&hide_border=true" alt="hanra-reserve"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/ice-ice-bear/ice-ice-bear.github.io">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ice-ice-bear&repo=ice-ice-bear.github.io&theme=tokyonight&hide_border=true" alt="blog"/>
-</a>
-
-</div>
+| Project | Description |
+| --- | --- |
+| [**log-blog**](https://github.com/ice-ice-bear/log-blog) | Python CLI that reads Chrome browsing history and publishes a Hugo blog post |
+| [**hanra-reserve**](https://github.com/ice-ice-bear/hanra-reserve) | Automated reservation system built with Python |
+| [**ice-ice-bear.github.io**](https://github.com/ice-ice-bear/ice-ice-bear.github.io) | Personal tech blog powered by Hugo |
 
 ---
 
