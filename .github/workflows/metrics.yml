@@ -1,0 +1,33 @@
+name: Generate GitHub Metrics
+
+on:
+  schedule:
+    - cron: "10 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Metrics
+        uses: lowlevel/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: github-metrics.svg
+          plugin_languages: yes
+          plugin_languages_limit: 6
+          plugin_activity: yes
+          plugin_activity_limit: 5
+
+      - name: Commit & Push
+        run: |
+          git config user.name ice-ice-bear
+          git config user.email 3balbi7@gmail.com
+          git add github-metrics.svg
+          git commit -m "update metrics" || true
+          git push
