@@ -19,11 +19,23 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Profile Summary
 
 <div align="center">
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=ice-ice-bear&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="100%"/>
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" width="48%"/>
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="48%"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ice-ice-bear&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
 
 </div>
 
@@ -47,28 +59,6 @@
 | [**log-blog**](https://github.com/ice-ice-bear/log-blog) | Python CLI that reads Chrome browsing history and publishes a Hugo blog post |
 | [**hanra-reserve**](https://github.com/ice-ice-bear/hanra-reserve) | Automated reservation system built with Python |
 | [**ice-ice-bear.github.io**](https://github.com/ice-ice-bear/ice-ice-bear.github.io) | Personal tech blog powered by Hugo |
-
----
-
-## 📊 Profile Summary
-
-<div align="center">
-
-<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="100%"/>
-<img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="48%"/>
-<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="48%"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ice-ice-bear&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
-
-</div>
 
 ---
 
