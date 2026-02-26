@@ -24,7 +24,7 @@
 <div align="center">
 
 <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="100%"/>
-<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" width="48%"/>
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="48%"/>
 <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="48%"/>
 
 </div>
