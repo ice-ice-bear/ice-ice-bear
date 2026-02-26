@@ -50,11 +50,11 @@
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 Top Languages
 
 <div align="center">
 
-<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ice-ice-bear&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 
 </div>
 
