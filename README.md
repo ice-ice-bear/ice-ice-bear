@@ -50,11 +50,13 @@
 
 ---
 
-## 📊 Top Languages
+## 📊 Profile Summary
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ice-ice-bear&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+<img src="./profile-summary-card-output/0-profile-details.svg" alt="Profile Details" width="100%"/>
+<img src="./profile-summary-card-output/3-stats.svg" alt="Stats" width="48%"/>
+<img src="./profile-summary-card-output/4-productive-time.svg" alt="Productive Time" width="48%"/>
 
 </div>
 
