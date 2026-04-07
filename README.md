@@ -65,25 +65,34 @@ Posts are published in both **English** and **Korean**, auto-generated from my d
 **AI / ML**<br/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI/ML" />
 <br/>
-`Claude API` `Google Gemini` `MCP` `Ollama` `sentence-transformers`
+<img src="https://img.shields.io/badge/Claude_API-D4A574?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
+<img src="https://img.shields.io/badge/MCP-58A6FF?style=flat-square&logo=anthropic&logoColor=white" alt="MCP"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/>
 <br/><br/>
 
 **Backend & Data**<br/>
 <img src="https://skillicons.dev/icons?i=fastapi,django,redis,postgres,mysql&theme=dark" alt="Backend" />
 <br/>
-`DuckDB` `Pydantic` `Celery`
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" alt="DuckDB"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic"/>
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery"/>
 <br/><br/>
 
 **Frontend**<br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind&theme=dark" alt="Frontend" />
 <br/>
-`Streamlit`
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
 <br/><br/>
 
 **DevOps & Tools**<br/>
 <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,vscode&theme=dark" alt="DevOps" />
 <br/>
-`Playwright` `OpenTelemetry` `FFmpeg` `uv`
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg"/>
+<img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white" alt="uv"/>
 
 </div>
 
