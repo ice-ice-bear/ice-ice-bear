@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+SeungRyul+Lee;Data+Engineer+%7C+ML+Enthusiast;Building+data-driven+solutions" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=140&lines=Hi+%F0%9F%91%8B+I'm+SeungRyul+Lee;Data+Engineer+%7C+ML+Enthusiast;Building+data-driven+solutions" alt="Typing SVG" /></a>
 
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=ice-ice-bear&style=flat-square&color=58A6FF" alt="Profile Views"/>
@@ -59,30 +59,31 @@ Posts are published in both **English** and **Korean**, auto-generated from my d
 <div align="center">
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,bash&theme=dark" alt="Languages" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,bash&theme=dark" alt="Languages" />
+<br/><br/>
 
 **AI / ML**<br/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI/ML" />
 <br/>
-`Claude API` `Google Gemini` `MCP` `Anthropic SDK` `Ollama` `sentence-transformers` `YOLOv5`
+`Claude API` `Google Gemini` `MCP` `Ollama` `sentence-transformers`
 <br/><br/>
 
 **Backend & Data**<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,django,redis,celery,postgres,mysql,sqlite&theme=dark" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=fastapi,django,redis,postgres,mysql&theme=dark" alt="Backend" />
 <br/>
-`DuckDB` `Uvicorn` `Pydantic` `APScheduler` `django-ninja`
+`DuckDB` `Pydantic` `Celery`
 <br/><br/>
 
-**Frontend & Visualization**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,html,css&theme=dark" alt="Frontend" />
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind&theme=dark" alt="Frontend" />
 <br/>
-`Streamlit` `seaborn` `folium` `NetworkX`
+`Streamlit`
 <br/><br/>
 
 **DevOps & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,vscode,hugo&theme=dark" alt="DevOps" />
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,vscode&theme=dark" alt="DevOps" />
 <br/>
-`Playwright` `Selenium` `FFmpeg` `OpenTelemetry` `Makefile` `uv`
+`Playwright` `OpenTelemetry` `FFmpeg` `uv`
 
 </div>
 
