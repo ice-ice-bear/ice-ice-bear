@@ -14,8 +14,21 @@
 
 - 🔭 Currently building **data pipelines** and **ML-powered applications**
 - 🌱 Exploring **LLM integrations**, **MCP**, and **AI-assisted development**
-- 📝 Writing about tech on my [blog](https://ice-ice-bear.github.io)
 - 📫 Reach me at **3balbi7@gmail.com**
+
+---
+
+## 📝 Blog
+
+<div align="center">
+
+[![Blog](https://img.shields.io/badge/Tech%20Blog-ice--ice--bear.github.io-58A6FF?style=for-the-badge&logo=hugo&logoColor=white)](https://ice-ice-bear.github.io)
+
+I write daily about **AI engineering**, **data pipelines**, **MCP integrations**, and **dev tooling**.
+
+Posts are published in both **English** and **Korean**, auto-generated from my daily browsing & dev sessions via [**log-blog**](https://github.com/ice-ice-bear/log-blog).
+
+</div>
 
 ---
 
@@ -45,8 +58,31 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,selenium&theme=dark" alt="Main Stack" /><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,linux,vscode&theme=dark" alt="Tools" />
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,bash&theme=dark" alt="Languages" /><br/><br/>
+
+**AI / ML**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI/ML" />
+<br/>
+`Claude API` `Google Gemini` `MCP` `Anthropic SDK` `Ollama` `sentence-transformers` `YOLOv5`
+<br/><br/>
+
+**Backend & Data**<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,redis,celery,postgres,mysql,sqlite&theme=dark" alt="Backend" />
+<br/>
+`DuckDB` `Uvicorn` `Pydantic` `APScheduler` `django-ninja`
+<br/><br/>
+
+**Frontend & Visualization**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,html,css&theme=dark" alt="Frontend" />
+<br/>
+`Streamlit` `seaborn` `folium` `NetworkX`
+<br/><br/>
+
+**DevOps & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,vscode,hugo&theme=dark" alt="DevOps" />
+<br/>
+`Playwright` `Selenium` `FFmpeg` `OpenTelemetry` `Makefile` `uv`
 
 </div>
 
@@ -54,11 +90,12 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-| --- | --- |
-| [**log-blog**](https://github.com/ice-ice-bear/log-blog) | Python CLI that reads Chrome browsing history and publishes a Hugo blog post |
-| [**hanra-reserve**](https://github.com/ice-ice-bear/hanra-reserve) | Automated reservation system built with Python |
-| [**ice-ice-bear.github.io**](https://github.com/ice-ice-bear/ice-ice-bear.github.io) | Personal tech blog powered by Hugo |
+| Project | Description | Stack |
+| --- | --- | --- |
+| [**popcon**](https://github.com/ice-ice-bear/popcon) | Turn a single image into a complete LINE animated emoji set | `Next.js` `FastAPI` `Gemini` `Celery` `Docker` |
+| [**trading-agent**](https://github.com/ice-ice-bear/trading-agent) | LLM-powered stock trading assistant with real-time market data | `React` `FastAPI` `Claude API` `MCP` `KIS API` |
+| [**log-blog**](https://github.com/ice-ice-bear/log-blog) | Auto-generates bilingual blog posts from Chrome history & dev sessions | `Python` `Playwright` `Hugo` `Claude Code Plugin` |
+| [**harnesskit**](https://github.com/ice-ice-bear/harnesskit) | Adaptive Claude Code plugin — detects stacks, applies guardrails, tracks sessions | `Bash` `Claude Code` `MCP` |
 
 ---
 
@@ -92,6 +129,15 @@
 </details>
 
 <details>
+<summary>💼 Experience</summary>
+
+| Company | Period | Role |
+| --- | --- | --- |
+| GNT Solution | 2022.12 ~ 2023.08 | Data Analysis Intern — YOLOv5 object detection, data pipeline automation |
+
+</details>
+
+<details>
 <summary>🏆 Competitions / 수상 경력</summary>
 
 | Date | Title | Prize |
@@ -99,16 +145,6 @@
 | 2022-10 | 청년 리빙랩 프로젝트 - 지역의 재발견 | 🏆 |
 | 2022-10 ~ 11 | 2022 체육종합 데이터 분석/활용 경진대회 | 🏆 |
 | 2023-04 ~ 10 | 한이음 ICT 멘토링 | 📜 |
-
-</details>
-
-<details>
-<summary>🎓 Education / 학력</summary>
-
-| Institution | Period | Details |
-| --- | --- | --- |
-| 서경대학교 | 2017.03 ~ 2024.02 | 공과대학 산업시스템공학과 졸업 |
-| GNT Solution (인턴) | 2022.12 ~ 2023.08 | 데이터 분석 인턴십 |
 
 </details>
 
